@@ -56,6 +56,18 @@ body{
     color: white;
 }
 
+.notif{
+  color: yellow;
+  width: 17px;
+  height: 17px;
+  font-size: 17px;
+  font-weight: bold;
+  background-color: transparent;
+  border: 3px solid yellow;
+  border-radius: 50%;
+  text-align: center;
+}
+
 /* pentru mobile */
 [class*="col-"] {
     width: 100%;
