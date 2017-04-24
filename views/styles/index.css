@@ -20,3 +20,15 @@ html {
 body{
     background-color: grey;
 }
+
+.header{
+    background-color: darkblue;
+    text-align: center;
+    color: mediumspringgreen;
+    padding-bottom: 10px;
+    padding-top: 10px;
+} 
+
+.header hr{
+    width: 50%;
+}
